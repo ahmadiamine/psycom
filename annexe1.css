@@ -1,0 +1,94 @@
+header{
+  background-color: rgb(84, 108, 145);margin-right: -0.5em;margin-left: -0.5em;margin-top: -1.4em;height: 15em}
+
+ body{background-image: url(baba.jpg);
+  background-repeat: no-repeat;
+  background-size: cover }
+
+  .z {
+	background-color: gray;
+	border-radius: 3em;
+	font-size: 2em;
+	position: absolute;
+	top: 3em;left: 7em;
+	}
+
+
+.z:hover {
+	background-color: cyan;
+	border-radius: 3em;
+	font-size: 2.2em;
+	position: absolute;
+	top: 3em;left: 6.5em}
+
+.e {
+	background-color: gray;
+	border-radius: 3em;
+	font-size: 2em;
+	position: absolute;
+	top: 3em;left: 18em;}
+
+
+.e:hover {
+	background-color:cyan;
+	border-radius: 3em;
+	font-size: 2.2em;
+	position: absolute;
+	top: 3em;left: 16.5em;}
+
+.r {
+	background-color: gray;
+	border-radius: 3em;
+	font-size: 2em;
+	position: absolute;
+	top: 3em;left: 29em;}
+
+.r:hover {
+	background-color: cyan;
+	border-radius: 3em;
+	font-size: 2.2em;
+	position: absolute;
+	top: 3em;left: 26em;}
+
+
+.p {
+	position: absolute;font-size: 1.6em;
+	;position: absolute;left: 23em;top: -0.7em}
+
+.o {position: absolute;
+	border-radius: 4em;
+	border: 0.06em solid;
+    height: 2em;width: 2.3em;
+	;position: absolute;left: 43em;top: 1.4em}
+
+.t{color: #000000;font-size: 2.3em; 
+  text-shadow: 0 4px 3px rgba(0, 255, 255, 0.5), -4px 0 3px rgba(255, 0, 0, 0.5);
+  font-family: "italic", sans-serif;
+  position: absolute;top: 6.5em;left: 1.5em}
+
+ .n{text-decoration:none;
+	;color: gray;border-color: white;
+	font-size: 2em;position: absolute;left: 7em;top: 10em}
+
+.n:hover{text-decoration:none;
+font-size: 2.5em;color: gray; position: absolute;left: 5.5em;top: 7.5em}
+
+.m{text-decoration:none;
+	font-size: 2em;color: gray;position: absolute;left: 7em;top: 12.5em }
+
+.m:hover{text-decoration:none;
+font-size: 2.5em;color: gray;position: absolute;left: 5.5em;top: 9.5em}
+
+
+.b{text-decoration:none;
+	font-size: 2em;color: gray;position: absolute;left: 7em;top: 15em}
+.b:hover{text-decoration:none;
+	font-size: 2.5em;color: gray;position: absolute;left: 5.5em;top: 11.5em}
+
+
+.qs{position: absolute;left:57em;bottom:18em ;height: 11em;width: 16em;background-color: cyan;box-shadow: 1em 1em 1em;border-radius: 4em}
+
+.qs:hover{position: absolute;left:58em;bottom:17em ;height: 12em;width: 17em;background-color: cyan;box-shadow: 1em 1em 1em;border-radius: 4em}
+
+
+.qs:active{position: absolute;left:58em;bottom:17em ;height: 12em;width: 17em;background-color: red;box-shadow: 1em 1em 1em;border-radius: 4em}

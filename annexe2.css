@@ -1,0 +1,29 @@
+body {
+  background-image: url(baba.jpg);
+  background-repeat: no-repeat;
+  background-size: cover}
+
+
+  .pp{color: #000000;font-size: 250%; 
+  text-shadow: 0 4px 3px rgba(0, 255, 255, 0.5), -4px 0 3px rgba(255, 0, 0, 0.5);
+  font-family: "italic", sans-serif;}
+
+    .ii{color: #000000;font-size: 250%; 
+  text-shadow: 0 4px 3px rgba(0, 255, 255, 0.5), -4px 0 3px rgba(255, 0, 0, 0.5);
+  font-family: "italic", sans-serif;}
+
+
+    .oo{color: #000000;font-size: 250%; 
+  text-shadow: 0 4px 3px rgba(0, 255, 255, 0.5), -4px 0 3px rgba(255, 0, 0, 0.5);
+  font-family: "italic", sans-serif;}
+
+
+.u{float: left;width: 9.5em;}
+
+.q{float: left;width: 9.5em;}
+.xx{float: left;width: 9em;}
+
+.ty{width: 7em;height: 3.5em;margin-right: 4em;margin-left: 7em;border-radius: 5em;margin-bottom:15em ;margin-top:1em; background-color: cyan }
+
+
+.ty:hover{width: 7.5em;height: 4em;margin-right: 4em;margin-left: 7em;border-radius: 5em;margin-bottom:15em ;margin-top:1em; background-color:green }

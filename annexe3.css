@@ -1,0 +1,40 @@
+body {
+  background-image: url(baba.jpg);
+  background-repeat: no-repeat;
+  background-size: cover}
+
+
+  .hj{background-color: blue;height: 24em;width: 59em;background-color: white;
+  	border-color: black;
+  	position: absolute;left: 12em;
+  	top: 7.5em;}
+
+  .qq{background-color: rgb(132, 172, 224);padding: -4em}
+
+  .idk{width: 9em }
+
+  .fg{font-size: : 1em}
+
+
+  .kl{color: #000000;font-size: 270%; 
+  text-shadow: 0 4px 3px rgba(0, 255, 255, 0.5), -4px 0 3px rgba(255, 0, 0, 0.5);
+  font-family: "italic", sans-serif;position: absolute;left: 10em;top: 0.1em}
+
+
+
+  .ty{width: 7em;height: 3.5em;margin-right: 4em;margin-left: 7em;border-radius: 5em;margin-bottom:-15em ;margin-top:40em; background-color: cyan }
+
+
+.ty:hover{width: 7.5em;height: 4em;margin-right: 4em;margin-left: 7em;border-radius: 5em;margin-bottom:-15em ;margin-top:40em; background-color:green }
+
+.i {
+  height: 7%;width: 2%;
+  position: absolute;
+  border-radius: 40%;
+  border: 1.6px solid;;position: absolute;right: 30em;top: 2em}
+
+.i:hover {
+  height:8.5%;width: 3%;
+  position: absolute;
+  border-radius: 40%;
+  border: 1.6px solid;position: absolute;right: 30em;top: 2em}
